@@ -11,11 +11,6 @@ processing dynamics.
 - Built an interactive dashboard to surface contractor-level insights
 - Focused on actionable insights for homeowners, planners, and analysts
 
-## Project Components
-- `notebooks/`: analytical workflow and visual exploration
-- `app/`: interactive dashboard for contractor analysis
-- `data/`: anonymized or sample data for demonstration
-
 ## Tools
 Python, pandas, matplotlib, SQL-style analytics, dashboard development
 
