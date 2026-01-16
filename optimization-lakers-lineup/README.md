@@ -9,10 +9,6 @@ optimal basketball lineups under performance and structural constraints.
 - Implemented the model in Python with modular design
 - Extended the model with a simple GUI for interaction
 
-## Project Structure
-- `src/`: core optimization logic and interface
-- `data/`: sample input data
-- `notebooks/`: formulation and modeling demonstrations
 
 ## Tools
 Python, pandas, numpy, optimization modeling
