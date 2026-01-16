@@ -1,0 +1,5 @@
+﻿Risk,Min,Most Likely,Max,Likelihood
+Permits,150,575,1000,0.5
+Facility Prep,2000,7000,12000,0.2
+Equipment Rentals,250,1125,2000,0.5
+Installation,1000,4000,7000,0.8
